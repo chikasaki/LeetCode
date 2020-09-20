@@ -1,4 +1,4 @@
-package combination;
+package bruteforcebacktrack;
 
 import java.util.ArrayList;
 import java.util.Arrays;
