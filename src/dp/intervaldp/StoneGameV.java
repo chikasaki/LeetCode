@@ -1,4 +1,4 @@
-package dp.gametheory;
+package dp.intervaldp;
 
 import java.util.Arrays;
 
